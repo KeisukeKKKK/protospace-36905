@@ -1,2 +1,0 @@
-class Twee < ApplicationRecord
-end
